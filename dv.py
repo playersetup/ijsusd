@@ -6,7 +6,7 @@ rut = map(int, str(ingreso))
 x = len(rut)
 factor = 2
 result = 0
-
+//comentarios 
 while x > 0:
     x = x -1
     valor = int(rut[x])
